@@ -6,6 +6,8 @@ Email Address: e0674526@u.nus.edu
 
 ## Instruction
 
+backend server is not changed from tutorial5, the github address is : https://github.com/crazyqiqi0639/HotelWaitingSystem
+
 To run this project, I mainly use apollo latest module `@apollo/client`. 
 
 Run this command to install the module:
